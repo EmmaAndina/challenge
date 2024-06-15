@@ -1,0 +1,15 @@
+{
+  "name": "categorychallenge",
+  "version": "1.0.0",
+  "description": "Qubika Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Emmanuel Sotomayor",
+  "license": "ISC",
+  "dependencies": {
+    "@playwright/test": "^1.44.1",
+    "dotenv": "^16.4.5"
+  }
+}
